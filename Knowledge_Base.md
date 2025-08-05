@@ -182,7 +182,3 @@ A Python-based CLI tool that:
 
 > 💡 Pro Tip: Practice these tools regularly in a sandbox setup. Try breaking and fixing things intentionally to simulate real-life issues.
 
----
-
-## 📁 Suggested Repo Structure
-
